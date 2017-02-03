@@ -1,0 +1,33 @@
+{
+  "name": "my-new-project",
+  "authors": [
+    "Austin Lauritsen <austin@veryaustin.com> (http://veryaustin.com)"
+  ],
+  "description": "Tools of the Trade episode about CodeKit: Build websites faster & better.",
+  "main": [
+    "index.html",
+    "main.js"
+  ],
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "none"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}
