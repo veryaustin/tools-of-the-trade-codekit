@@ -1,6 +1,6 @@
 # Tools of the Trade - CodeKit
 
-Companion source code for [Tools of the Trade - CodeKit](https://youtu.be/UqP_aCwXH4w).
+Companion source code for [Tools of the Trade - CodeKit](https://youtu.be/UqP_aCwXH4w)
 
 Join me as I dive into CodeKit, a beautiful and powerful app for building websites faster and better.
 
